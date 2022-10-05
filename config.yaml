@@ -1,0 +1,162 @@
+theme: "hugo-PaperModX"
+baseURL: https://georgebaihanwang.com/
+languageCode: en-us
+title: George Baihan Wang
+
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "George Baihan Wang"
+  author:
+    - George
+  disableAnchoredHeadings: true
+  images: ["G-logos_transparent.png"]
+  DateFormat: "2006-01-02"
+  useCustomAnalytics: true
+
+  defaultTheme: light
+  # disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  ShowWordCount: false
+  # disableSpecial1stPost: true
+  displayFullLangName: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowToc: false
+  TocOpen: false
+  TocSide: "right"
+  EnableInstantClick: false
+  EnableImageZoom: true
+
+
+  profileMode:
+    enabled: true
+    title: George Baihan Wang
+    imageUrl: "avatar.jpg"
+    imageTitle: avatar
+    imageWidth: 200
+    imageHeight: 200
+    subtitle: >
+      <p>MCom Research Student in Finance at Monash Business School</p>
+      
+    # buttons:
+    #   - name: Monash
+    #     url: "https://www.monash.edu/business/banking-and-finance"
+    #     params:
+    #         external: true
+    #   - name: CV
+    #     url: cv
+
+  homeInfoParams:
+    Title: "George Baihan Wang"
+    Content: |
+      Welcome to George's personal website.
+  socialIcons:
+    - name: github-simple
+      url: "https://github.com/georgebwang"
+   # - name: googlescholar
+   #  url: ""
+    - name: email
+      url: "mailto:george.baihan.wang@gmail.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/george-baihan-wang/"
+    - name: twitter
+      url: "https://twitter.com/georgebwang"
+   #  - name: other
+   #    url: "SSRN page or Monash Link page"
+
+  assets:
+      favicon: "/favicon.ico"
+      favicon16x16: "/favicon-16x16.png"
+      favicon32x32: "/favicon-32x32.png"
+      apple_touch_icon: "/apple-touch-icon.png"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+# minify:
+#   disableXML: true
+#   # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Research
+          url: /research/
+          weight: 1
+        - name: Utilities
+          url: /utilities/
+          weight: 10
+        - name: CV
+          url: /cv/
+          weight: 20
+        # - name: "@Author"
+        #   url: "https://reorx.com"
+        #   params:
+        #     external: true
+
+# 
+# outputs:
+#   home:
+#     - HTML
+#     - RSS
+#     - JSON
+
+
+
+# markup:
+#   goldmark:
+#     renderer:
+#       unsafe: true
+  # highlight:
+  #   style: dracula
+  #   lineNos: false
+  #   noClasses: false
+
+# privacy:
+#   vimeo:
+#     disabled: false
+#     simple: true
+# 
+#   twitter:
+#     disabled: false
+#     enableDNT: true
+#     simple: true
+# 
+#   instagram:
+#     disabled: false
+#     simple: true
+# 
+#   youtube:
+#     disabled: false
+#     privacyEnhanced: true
+# 
+# services:
+#   instagram:
+#     disableInlineCSS: true
+#   twitter:
+#     disableInlineCSS: true
