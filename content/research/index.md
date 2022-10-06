@@ -9,6 +9,6 @@ math:
 
 
 #### Work in progress:
-Beware and Be prepared: Do Firms Respond to Bond Fragility Risk?
+Beware and Be Prepared: Do Firms Respond to Bond Fragility Risk?
 
 

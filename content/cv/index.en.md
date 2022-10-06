@@ -7,7 +7,7 @@ math:
   enable: true
 ---
 
-PDF version: <a href="CV-GeorgeBaihanWang.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>.
+PDF version: <a href="CV-GeorgeBaihanWang.pdf" target="_blank">Curriculum Vitae</a>.
 
 Email: george.baihan.wang@gmail.com
 
