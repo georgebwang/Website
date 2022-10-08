@@ -23,7 +23,7 @@ params:
   useCustomAnalytics: true
 
   defaultTheme: light
-  # disableThemeToggle: true
+  disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: false
   ShowWordCount: false
