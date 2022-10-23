@@ -26,18 +26,18 @@ Address: W10.20, Menzies Building, 20 Chancellors Walk, Clayton VIC 3168, Austra
   
 
 ### Awards
-* Faculty of Engineering Dean’s Honours List 2020
-* Monash Business School 2020 Dean’s Honour
-* MCom Graduate Research Scholarship
-* CFA Student Scholarship
-* Faculty of Engineering Dean’s Honours List 2017
-* Faculty of Engineering Dean’s Honours List 2016
-* Monash Engineering Undergraduate Scholarship
+* Australian Government RTP Stipend Scholarship, 2023-
+* Monash International Tuition Scholarship, 2023-
+* Faculty of Engineering Dean’s Honours List, 2020
+* Monash Business School Dean’s Honour, 2020
+* MCom Graduate Research Scholarship, 2021-2022
+* CFA Student Scholarship, 2020
+* Monash Engineering Undergraduate Scholarship, 2016
 
 
 ### Miscellaneous
-* Chartered Financial Analyst (CFA) ‑ Level I passed (2021)
-* Financial Risk Manager (FRM) ‑ Part I passed (2019)
-* Software skills: R | SAS | Stata | Python | MATLAB | $\LaTeX$
+* Chartered Financial Analyst (CFA) ‑ Level I passed, 2021
+* Financial Risk Manager (FRM) ‑ Part I passed, 2019
+* Software skills: R | SAS | Stata | Python | MATLAB | Julia | $\LaTeX$
 
 
