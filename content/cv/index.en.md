@@ -32,12 +32,14 @@ Address: W10.20, Menzies Building, 20 Chancellors Walk, Clayton VIC 3168, Austra
 * Monash Business School Dean’s Honour, 2020
 * MCom Graduate Research Scholarship, 2021-2022
 * CFA Student Scholarship, 2020
-* Monash Engineering Undergraduate Scholarship, 2016
+* Monash Engineering International Undergraduate Award, 2016
 
 
 ### Miscellaneous
 * Chartered Financial Analyst (CFA) ‑ Level I passed, 2021
 * Financial Risk Manager (FRM) ‑ Part I passed, 2019
 * Software skills: R | SAS | Stata | Python | MATLAB | Julia | $\LaTeX$
+* Memberships: American Finance Association (AFA), Financial Management Association (FMA)
+
 
 
