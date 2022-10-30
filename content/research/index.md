@@ -9,6 +9,6 @@ math:
 
 
 ### Work in progress:
-Beware and Be Prepared: Do Firms Respond to Bond Fragility Risk?
+Does Bond Fund Fragility Create Externalities to Corporate Firms?
 
 
