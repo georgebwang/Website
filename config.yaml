@@ -46,10 +46,7 @@ params:
     imageTitle: avatar
     imageWidth: 200
     imageHeight: 266
-    subtitle: 
-      MCom Research Student in Finance at Monash Business School
-      
-    
+    subtitle: MCom Research Student in Finance at Monash Business School
     # buttons:
     #   - name: Monash
     #     url: "https://www.monash.edu/business/banking-and-finance"
