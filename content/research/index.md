@@ -8,7 +8,7 @@ math:
 ---
 
 
-### Work in progress:
+### Work in Progress:
 Does Bond Fund Fragility Create Externalities to Corporate Firms?
 
 
