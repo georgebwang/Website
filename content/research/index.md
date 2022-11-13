@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title:  
 draft: false
 
 math:
@@ -8,7 +8,7 @@ math:
 ---
 
 
-### Work in Progress:
+#### Work in Progress:
 Does Bond Fund Fragility Create Externalities to Corporate Firms?
 
 

@@ -46,14 +46,17 @@ params:
     imageTitle: avatar
     imageWidth: 200
     imageHeight: 266
-    subtitle: MCom Research Student in Finance at Monash Business School
+    subtitle: >
+      <p>Research Student</p>
+      <p>Department of Banking and Finance</p>
+      <p>Monash Business School</p>
     # buttons:
     #   - name: Monash
     #     url: "https://www.monash.edu/business/banking-and-finance"
     #     params:
     #         external: true
     #   - name: CV
-    #     url: cv
+    #     url: about
 
   homeInfoParams:
     Title: "George Baihan Wang"
@@ -109,8 +112,8 @@ languages:
         - name: Utilities
           url: /utilities/
           weight: 10
-        - name: CV
-          url: /cv/
+        - name: About
+          url: /about/
           weight: 20
         # - name: "@Author"
         #   url: "https://reorx.com"
