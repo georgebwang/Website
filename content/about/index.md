@@ -26,9 +26,9 @@ Address: Level 10, Menzies Building, 20 Chancellors Walk, Clayton VIC 3168, Aust
 #### Awards
 * Australian Government RTP Stipend Scholarship, 2023
 * Monash International Tuition Scholarship, 2023
+* Master of Commerce Scholarship, 2021
 * Faculty of Engineering Dean’s Honours List, 2020
 * Monash Business School Dean’s Honour, 2020
-* MCom Graduate Research Scholarship, 2021
 * CFA Student Scholarship, 2020
 * Monash Engineering International Undergraduate Award, 2016
 
