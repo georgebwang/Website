@@ -11,7 +11,7 @@ math:
 
 Email: george.baihan.wang@gmail.com
 
-Address: Level 10, 20 Chancellors Walk (Robert Menzies Building), Clayton VIC 3168, Australia
+Address: Level 10, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Australia
 
 #### Education
 
