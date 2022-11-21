@@ -11,7 +11,7 @@ math:
 
 Email: george.baihan.wang@gmail.com
 
-Address: Level 10, Menzies Building, 20 Chancellors Walk, Clayton VIC 3168, Australia
+Address: Level 10, 20 Chancellors Walk (Robert Menzies Building), Clayton VIC 3168, Australia
 
 #### Education
 
@@ -37,7 +37,7 @@ Address: Level 10, Menzies Building, 20 Chancellors Walk, Clayton VIC 3168, Aust
 * Chartered Financial Analyst (CFA) Certification ‑ Level 1 passed, 2021
 * Financial Risk Manager (FRM) Certification ‑ Part 1 passed, 2019
 * Software skills: R | SAS | Stata | SQL | Python | MATLAB | Julia | $\LaTeX$
-* Memberships: American Finance Association (AFA), Financial Management Association (FMA)
+* Memberships: American Finance Association (AFA), Financial Management Association (FMA), Engineers Australia (EA)
 
 
 
