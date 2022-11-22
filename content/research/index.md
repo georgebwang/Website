@@ -1,7 +1,5 @@
 ---
 title:  
-draft: false
-
 math:
   enable: true
 

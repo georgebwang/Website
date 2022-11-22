@@ -47,8 +47,7 @@ params:
     imageWidth: 200
     imageHeight: 266
     subtitle: >
-      <p>Research Student</p>
-      <p>Department of Banking and Finance</p>
+      <p>Research Student in Finance</p>
       <p>Monash Business School</p>
     # buttons:
     #   - name: Monash

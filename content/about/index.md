@@ -1,13 +1,11 @@
 ---
 title:
 date: 
-draft: false
-
 math:
   enable: true 
 ---
 
-<a href="CV-GeorgeBaihanWang.pdf" target="_blank">Download CV</a>
+<a href="CV-GeorgeBaihanWang.pdf" target="_blank">Download CV (Updated: Nov 2022)</a>
 
 Email: george.baihan.wang@gmail.com
 
@@ -45,7 +43,7 @@ Address: Level 10, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Aus
 
 
 
-#### PhD Supervision Committee
- - <a href="https://johnchungyenchu.org/" target="_blank" rel="noopener noreferrer">John Chu</a>, Associate Professor of Finance (main supervisor)
- - <a href="https://research.monash.edu/en/persons/huu-nhan-duong" target="_blank" rel="noopener noreferrer">Huu Nhan Duong</a>, Associate Professor of Finance (co-supervisor)
- - <a href="https://sites.google.com/view/yushuis" target="_blank" rel="noopener noreferrer">Yushui Shi</a>, Assistant Professor of Finance (co-supervisor)
+#### PhD Supervisors
+ - <a href="https://johnchungyenchu.org/" target="_blank" rel="noopener noreferrer">John C. Chu</a>, Associate Professor of Finance
+ - <a href="https://research.monash.edu/en/persons/huu-nhan-duong" target="_blank" rel="noopener noreferrer">Huu Nhan Duong</a>, Associate Professor of Finance 
+ - <a href="https://sites.google.com/view/yushuis" target="_blank" rel="noopener noreferrer">Yushui Shi</a>, Assistant Professor of Finance 
