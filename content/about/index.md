@@ -46,6 +46,6 @@ Address: Level 10, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Aus
 
 
 #### PhD Supervision Committee
- - Associate Professor <a href="https://johnchungyenchu.org/" target="_blank" rel="noopener noreferrer">John Chu</a> (main supervisor)
- - Associate Professor <a href="https://research.monash.edu/en/persons/huu-nhan-duong" target="_blank" rel="noopener noreferrer">Huu Nhan Duong</a> (co-supervisor)
- - Assistant Professor <a href="https://sites.google.com/view/yushuis" target="_blank" rel="noopener noreferrer">Yushui Shi</a> (co-supervisor)
+ - <a href="https://johnchungyenchu.org/" target="_blank" rel="noopener noreferrer">John Chu</a>, Associate Professor of Finance (main supervisor)
+ - <a href="https://research.monash.edu/en/persons/huu-nhan-duong" target="_blank" rel="noopener noreferrer">Huu Nhan Duong</a>, Associate Professor of Finance (co-supervisor)
+ - <a href="https://sites.google.com/view/yushuis" target="_blank" rel="noopener noreferrer">Yushui Shi</a>, Assistant Professor of Finance (co-supervisor)
