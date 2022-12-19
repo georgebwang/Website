@@ -37,6 +37,7 @@ params:
   TocSide: "right"
   EnableInstantClick: false
   EnableImageZoom: true
+  hideFooter: true
 
 
   profileMode:
@@ -47,7 +48,7 @@ params:
     imageWidth: 200
     imageHeight: 266
     subtitle: >
-      <p>Research Student in Finance</p>
+      <p>Finance PhD Student</p>
       <p>Monash Business School</p>
     # buttons:
     #   - name: Monash
@@ -62,12 +63,12 @@ params:
     Content: |
       Welcome to George's personal website.
   socialIcons:
+    - name: email
+      url: "mailto:george.wang@monash.com"
     - name: github-simple
       url: "https://github.com/georgebwang"
    # - name: googlescholar
    #  url: ""
-    - name: email
-      url: "mailto:george.baihan.wang@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/george-baihan-wang/"
     - name: twitter
@@ -107,13 +108,13 @@ languages:
       main:
         - name: Research
           url: /research/
-          weight: 1
+          weight: 10
         - name: Utilities
           url: /utilities/
-          weight: 10
+          weight: 30
         - name: About
           url: /about/
-          weight: 20
+          weight: 50
         # - name: "@Author"
         #   url: "https://reorx.com"
         #   params:
