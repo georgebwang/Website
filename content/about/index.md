@@ -5,7 +5,7 @@ math:
   enable: true 
 ---
 
-<a href="CV-GeorgeBaihanWang.pdf" target="_blank">Download CV (Updated: Dec 2022)</a>
+<a href="CV-GeorgeBaihanWang.pdf" target="_blank">Download CV</a> (Updated: Dec 2022)
 
 Email: george.wang@monash.edu
 
