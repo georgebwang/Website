@@ -5,7 +5,7 @@ math:
   enable: true 
 ---
 
-<a href="CV-GeorgeBaihanWang.pdf" target="_blank">Download CV (Updated: Nov 2022)</a>
+<a href="CV-GeorgeBaihanWang.pdf" target="_blank">Download CV (Updated: Dec 2022)</a>
 
 Email: george.wang@monash.edu
 
@@ -16,7 +16,7 @@ Address: Level 10, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Aus
 
 * PhD in Finance, Monash Business School, 2026$^\dagger$
 
-  * MCom (2-year coursework component), 2022
+  * MCom (doctoral coursework component), 2022
   
 * BEng(Hons) in Chemical Engineering, Monash University, 2020
 
@@ -26,7 +26,10 @@ Address: Level 10, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Aus
   
 
 #### Awards
-* Australian Government RTP Stipend Scholarship, 2022
+* Donald Cochrane Postgraduate Research Scholarship, 2022
+* Monash Business School Dean’s Excellence Award, 2022
+* Monash Business School Graduate Research Top-up Scholarship, 2022
+* Australian Government RTP Stipend, 2022
 * Monash International Tuition Scholarship, 2022
 * Master of Commerce Scholarship, 2021
 * Faculty of Engineering Dean’s Honours List, 2020
@@ -48,7 +51,7 @@ Address: Level 10, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Aus
 
 
 #### PhD Supervision Committee
- - <a href="https://johnchungyenchu.org/" target="_blank" rel="noopener noreferrer">John C. Chu</a>, Principal Supervisor
- - <a href="https://research.monash.edu/en/persons/huu-nhan-duong" target="_blank" rel="noopener noreferrer">Huu Nhan Duong</a>, Associate Supervisor 
- - <a href="https://sites.google.com/view/yushuis" target="_blank" rel="noopener noreferrer">Yushui Shi</a>, Associate Supervisor
+ - <a href="https://johnchungyenchu.org/" target="_blank" rel="noopener noreferrer">John C. Chu</a> (main supervisor)
+ - <a href="https://research.monash.edu/en/persons/huu-nhan-duong" target="_blank" rel="noopener noreferrer">Huu Nhan Duong</a> (associate supervisor) 
+ - <a href="https://sites.google.com/view/yushuis" target="_blank" rel="noopener noreferrer">Yushui Shi</a> (associate supervisor) 
 
